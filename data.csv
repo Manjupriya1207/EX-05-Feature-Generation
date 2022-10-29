@@ -1,22 +1,22 @@
 
-car_ID	CarName	fueltype	aspiration	doornumber	carbody	drivewheel	enginelocation	wheelbase	carlength	carwidth	carheight	curbweight	enginetype	cylindernumber	enginesize	fuelsystem
-1	alfa-romero giulia	gas	std	two	convertible	rwd	front	88.6	168.8	64.1	48.8	2548	dohc	four	130	mpfi
-2	alfa-romero stelvio	gas	std	two	convertible	rwd	front	88.6	168.8	64.1	48.8	2548	dohc	four	130	mpfi
-28	dodge coronet custom	gas	turbo	two	sedan	fwd	front	93.7	157.3	63.8	50.6	2191	ohc	four	98	mpfi
-29	dodge dart custom	gas	std	four	wagon	fwd	front	103.3	174.6	64.6	59.8	2535	ohc	four	122	2bbl
-30	dodge coronet custom (sw)	gas	turbo	two	hatchback	fwd	front	95.9	173.2	66.3	50.2	2811	ohc	four	156	mfi
-35	honda civic cvcc	gas	std	two	hatchback	fwd	front	93.7	150	64	52.6	1956	ohc	four	92	1bbl
-61	mazda glc custom l	gas	std	four	sedan	fwd	front	98.8	177.8	66.5	55.5	2410	ohc	four	122	2bbl
-62	mazda glc custom	gas	std	two	hatchback	fwd	front	98.8	177.8	66.5	53.7	2385	ohc	four	122	2bbl
-63	mazda rx-4	gas	std	four	sedan	fwd	front	98.8	177.8	66.5	55.5	2410	ohc	four	122	2bbl
-64	mazda glc deluxe	diesel	std	four	sedan	fwd	front	98.8	177.8	66.5	55.5	2443	ohc	four	122	idi
-65	mazda 626	gas	std	four	hatchback	fwd	front	98.8	177.8	66.5	55.5	2425	ohc	four	122	2bbl
-66	mazda glc	gas	std	four	sedan	rwd	front	104.9	175	66.1	54.4	2670	ohc	four	140	mpfi
-67	mazda rx-7 gs	diesel	std	four	sedan	rwd	front	104.9	175	66.1	54.4	2700	ohc	four	134	idi
-68	buick electra 225 custom	diesel	turbo	four	sedan	rwd	front	110	190.9	70.3	56.5	3515	ohc	five	183	idi
-69	buick century luxus (sw)	diesel	turbo	four	wagon	rwd	front	110	190.9	70.3	58.7	3750	ohc	five	183	idi
-70	buick century	diesel	turbo	two	hardtop	rwd	front	106.7	187.5	70.3	54.9	3495	ohc	five	183	idi
-71	buick skyhawk	diesel	turbo	four	sedan	rwd	front	115.6	202.6	71.7	56.3	3770	ohc	five	183	idi
-72	buick opel isuzu deluxe	gas	std	four	sedan	rwd	front	115.6	202.6	71.7	56.5	3740	ohcv	eight	234	mpfi
-73	buick skylark	gas	std	two	convertible	rwd	front	96.6	180.3	70.5	50.8	3685	ohcv	eight	234	mpfi
+car_ID,	CarName,	fueltype,	aspiration,	doornumber,	carbody,	drivewheel,	enginelocation,	wheelbase,	carlength	,carwidth,	carheight	,curbweight,	enginetype,	cylindernumber,	enginesize,	fuelsystem
+1,	alfa-romero giulia,	gas,	std	,two,	convertible,	rwd,	front,	88.6,	168.8,	64.1,	48.8,	2548,	dohc,	four,	130,	mpfi
+2,	alfa-romero stelvio	,gas,	std	,two,	convertible,	rwd	,front,	88.6,	168.8,	64.1,	48.8,	2548,	dohc,	four,	130,	mpfi
+28	,dodge coronet custom	,gas,	turbo,	two,	sedan,	fwd	,front,	93.7,	157.3,	63.8	,50.6,	2191,	ohc,	four,	98,	mpfi
+29,	dodge dart custom	gas,	std,	four,	wagon	,fwd,	front,	103.3,	174.6,	64.6,	59.8,	2535,	ohc,	four,	122,	2bbl
+30,	dodge coronet custom (sw),	gas	,turbo,	two	,hatchback,	fwd,	front,	95.9	,173.2,	66.3,	50.2	,2811	,ohc,	four	,156,	mfi
+35,	honda civic cvcc	gas	,std,	two	,hatchback	,fwd,	front	,93.7,	150,	64,	52.6,	1956,	ohc,	four	,92	,1bbl
+61,	mazda glc custom l,	gas	,std,	four,	sedan	,fwd	,front,	98.8	,177.8,	66.5	,55.5	,2410,	ohc	,four,122	,2bbl
+62,	mazda glc custom,	gas	,std	,two	,hatchback,	fwd	,front	,98.8,	177.8,	66.5,	53.7,	2385,	ohc,	four,	122,	2bbl
+63,	mazda rx-4,	gas,	std,	four	,sedan,	fwd,	front	,98.8	,177.8,	66.5	,55.5	,2410,	ohc,	four,	122,	2bbl
+64,	mazda glc deluxe	,diesel,	std,	four	,sedan,	fwd,	front,	98.8,	177.8,	66.5,	55.5,	2443,	ohc,	four,	122,	idi
+65,	mazda 626,	gas,	std	,four	,hatchback	,fwd,	front	,98.8	,177.8	66.5	,55.5	,2425	,ohc	,four,	122	,2bbl
+66,	mazda glc	,gas	,std	,four,	sedan,	rwd	,front,	104.9,	175,	66.1,	54.4,	2670,	ohc,	four,	140,	mpfi
+67,	mazda rx-7 gs,	diesel	,std	,four	,sedan,	rwd	,front	,104.9	,175	,66.1	,54.4	,2700	,ohc,	four,	13	,idi
+68,	buick electra 225 custom,	diesel,	turbo	,four,	sedan	,rwd	,front	,110,	190.9,	70.3	,56.5,	3515,	ohc	,five,	183	,idi
+69,	buick century luxus (sw),	diesel,	turbo,	four,	wagon,	rwd,	front,	110	,190.9,	70.3,	58.7,	3750,	ohc	,five,	183,	idi
+70,	buick century,	diesel,	turbo	,two	,hardtop,	rwd	,front	,106.7	,187.5,	70.3,	54.9	,3495	,ohc	,five,	183,	idi
+71,	buick skyhawk,	diesel,	turbo	,four,	sedan,	rwd,	front,	115.6	202.6,	71.7,	56.3,	3770,	ohc,	five,	183	,idi
+72,	buick opel isuzu deluxe,	gas	,std	,four	,sedan	,rwd,	front,	115.6,	202.6,	71.7,	56.5,	3740,	ohcv	,eight	,234,	mpfi
+73,	buick skylark,	gas	,std,	two,	convertible,	rwd,	front,	96.6,	180.3,	70.5,	50.8,	3685,	ohcv,	eight,	234,	mpfi
 
